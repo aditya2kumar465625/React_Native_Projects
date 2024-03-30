@@ -1,0 +1,11 @@
+{
+  "name": "ToDoApp",
+  "displayName": "ToDoApp",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "ca0b22a5-ac58-4166-a6da-6343b1f4e4a8"
+      }
+    }
+  }
+}
