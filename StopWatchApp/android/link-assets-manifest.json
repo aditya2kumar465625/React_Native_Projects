@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DS-DIGIT copy.TTF",
+      "sha1": "44b13f9de8eee6c1aee3601c1a7f6d662b401616"
+    },
+    {
+      "path": "assets/fonts/DS-DIGIT.TTF",
+      "sha1": "44b13f9de8eee6c1aee3601c1a7f6d662b401616"
+    },
+    {
+      "path": "assets/fonts/Orbitron-VariableFont_wght.ttf",
+      "sha1": "51441780e1af77d5bdbfe1fffad3a90644d8ee76"
+    },
+    {
+      "path": "assets/fonts/Yarndings12Charted-Regular.ttf",
+      "sha1": "5c0ea379c33527a3908e5348cf4a29cc735d1791"
+    }
+  ]
+}
